@@ -99,7 +99,11 @@ Para o teste, utilizei o json abaixo:
      ]
   }
 }
+ 
 </code>
+[1 item
+0:float334.2611503032571
+]
 
 A previsão gerada foi: 361.95
 
