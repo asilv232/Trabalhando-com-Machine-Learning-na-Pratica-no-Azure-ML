@@ -105,6 +105,4 @@ Para o teste, utilizei o json abaixo:
 0:float334.2611503032571
 ]
 
-A previsão gerada foi: 361.95
-
-![Img](./imgs/img11.png)
+A previsão gerada foi: 334.26
